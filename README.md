@@ -1,4 +1,4 @@
-## EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS	
+# EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS	
 ## Aim
 To test and compare how different prompting patterns respond to various prompts such as naïve prompts (broad or unstructured) and basic prompts (clear, refined, and structured) across multiple scenarios. Analyze the quality, accuracy, and depth of the generated responses.
 
